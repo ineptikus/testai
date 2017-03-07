@@ -45,7 +45,7 @@ digital marketing, seo, sem
 < Can you give me an idea of the budget that you have in mind?
 * turing/request_human
 
-I plan to spend around [£5000000000](amount-of-money/4#customer-budget)00000000 per month
+I plan to spend around [£500](amount-of-money/4#customer-budget) per month
 * customerresponse/budget
 
 < Thank you for the information. I will request the team here for an SEO audit for www.envigo.co.uk and send the report to saurabh@envigo.co.uk. We will get back to you in about 24 hours.
